@@ -82,7 +82,7 @@ int main()
                 cout<<"Enter initil Balance: ";
                 cin>>balance;
                 acc=b.OpenAccount(fname,lname,balance);
-                cout<<endl<<"Congradulation Account is Created"<<endl;
+                cout<<endl<<"Congratulation Account is Created"<<endl;
                 cout<<acc;
                 break;
             case 2:
